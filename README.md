@@ -1,5 +1,5 @@
 # Firewall-and-Site-to-Site-VPN-Configuration
-A project I completed at NJIT. Goes over how to set up pfSense firewalls in a client-server relationship over the internet.
+A project I completed in grad school. Goes over how to set up pfSense firewalls in a client-server relationship over the internet.
 
 ## About
 This project uses 4 VMs created in VirtualBox, a client, a server, and 2 pfSense firewalls. The client and the server were on two different subnets. The client and the server were only allowed to communicate through a third, mock "Internet" subnet through the pfSense firewalls. Site to Site VPN can be configured in the pfSense firewalls.
